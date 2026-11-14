@@ -1,8 +1,72 @@
 # Spotter
 
-Race control for your F1® 25 league broadcast. Live race cards, timing, tyre strategy, driver pages and a stewards' log for free; the track map, telemetry, camera director and OBS overlays with Spotter Pro.
+**Race control for your F1® 25 league broadcast.** Spotter reads the game's telemetry and turns it into a live broadcast desk: race cards that surface every battle, overtake and crash the moment it happens, full timing and tyre strategy, driver pages, a track map, lap-by-lap telemetry and an auto camera director that cuts your spectator view to the action for you.
 
-**[Download the latest version](https://github.com/Zetenypapp/spotter-releases/releases/latest)**: get `Spotter_x.y.z_x64-setup.exe` from the release.
+**[⬇ Download the latest version](https://github.com/Zetenypapp/spotter-releases/releases/latest)** — grab `Spotter_x.y.z_x64-setup.exe` from the release and run it. Windows only, no admin rights needed.
+
+---
+
+## What it looks like
+
+The **race cards** read the whole field and push the stories that matter to the top — battles, danger warnings, contact, overtakes — so you never miss the moment:
+
+![Race cards](screenshots/cards.png)
+
+A **track map** that Spotter draws itself as the cars run, with live positions, gaps, sectors and the flag/incident timeline along the bottom:
+
+![Track map](screenshots/track-map.png)
+
+---
+
+## Free vs Spotter Pro
+
+Everything below works the moment you install. The **Pro** features unlock with a key.
+
+| Free | Spotter Pro |
+| --- | --- |
+| Race cards — battles, overtakes, contact, danger, penalties, retirements, pit stops, flags, weather, fastest lap, speed trap | **Track map** — self-drawing, live positions and gaps |
+| Live timing & leaderboard | **Telemetry** — lap-by-lap charts, two drivers compared |
+| Tyre strategy & pit windows | **Camera director** — auto-cuts your spectator view to the action |
+| Driver pages — tyres, damage, fuel, ERS, pace | **Danger model** — predicts who's about to bin it |
+| Stewards' log — every incident, contact and penalty | **OBS overlays** — leaderboard, map and driver graphics as browser sources |
+| Session, weather & race-control info | **3D views** — the car, battles and replays in 3D |
+| Phone / tablet page over your network | **Map builder** & **replay** — review any moment of the race |
+
+### Driver pages *(free)*
+
+Every car, lap by lap: tyres and wear, damage, fuel, ERS, pace and consistency.
+
+![Driver page](screenshots/driver.png)
+
+![Driver detail — wheels, brakes and power unit](screenshots/driver-detail.png)
+
+### Tyre strategy *(free)*
+
+The whole field's stints and compounds at a glance, with the pit window called for you:
+
+![Tyre strategy](screenshots/tyre-strategy.png)
+
+### Stewards' log *(free)*
+
+Spotter flags contact, crashes and the cause of every safety car — click any incident to replay it:
+
+![Incident — caused the safety car](screenshots/incident.png)
+
+### Telemetry *(Pro)*
+
+Any two drivers' laps side by side — speed, throttle, brake, gears, cornering g, tyre and brake temps, ERS and the gap, corner by corner:
+
+![Telemetry charts](screenshots/telemetry.png)
+
+### 3D views *(Pro)*
+
+The 2026 car in your league's colours, live battles and replays rendered in 3D:
+
+<p>
+<img src="screenshots/car-3d.png" width="48%" alt="3D car"> <img src="screenshots/battle-3d.png" width="34%" alt="3D battle view">
+</p>
+
+---
 
 ## Quick start
 
