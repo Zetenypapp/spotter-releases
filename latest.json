@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://github.com/Zetenypapp/spotter-releases/releases/latest",
-  "notes": "A steering wheel with rev lights, flashing rear lights, debris, sparks and spray in 3D, and your own onboard camera settings."
+  "notes": "The OBS window follows your Track map, and the HALO no longer fights your RaycerRay remote."
 }
